@@ -1,7 +1,3 @@
- Diagrama_Bifurcacao
- 
-Questão realizada na disciplina de Métodos Numéricos para Engenharia.
- 
 ## Questão 4 — Diagrama de bifurcação do mapa logístico
  
 Construção do diagrama de bifurcação do mapa logístico dado por
